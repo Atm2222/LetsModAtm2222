@@ -1,6 +1,8 @@
 package com.atm2222.letsmodatm;
 
 import com.atm2222.letsmodatm.handler.ConfigurationHandler;
+import com.atm2222.letsmodatm.init.ModBlocks;
+import com.atm2222.letsmodatm.init.ModItems;
 import com.atm2222.letsmodatm.proxy.IProxy;
 import com.atm2222.letsmodatm.reference.Reference;
 import com.atm2222.letsmodatm.utility.LogHelper;
@@ -32,6 +34,9 @@ public class LetsModAtm {
         ConfigurationHandler.init(event.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         LogHelper.info("Pre Initialization Complete!");
+
+        ModItems.init();
+        ModBlocks.init();
     }
 
     @Mod.EventHandler

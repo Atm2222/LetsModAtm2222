@@ -14,7 +14,7 @@ public class ConfigurationHandler {
     public static void init(File configFile) {
         //Create the config object from the given config file
         if (configuration == null) {
-            Configuration configuration = new Configuration(configFile);
+             configuration = new Configuration(configFile);
             loadConfiguration();
         }
 
@@ -30,13 +30,13 @@ public class ConfigurationHandler {
     private static void loadConfiguration() {
         testValue = configuration.getBoolean("configValue", Configuration.CATEGORY_GENERAL, false, "This is an example config value");
 
-        if (configuration.hasChanged()) {
+        if (configuration.hasChanged())
             configuration.save();
         }
     }
 
 
-}
+
 
 
 

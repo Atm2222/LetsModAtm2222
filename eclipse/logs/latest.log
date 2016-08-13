@@ -1,3 +1,38 @@
-[21:10:17] [main/INFO]: Setting user: Player888
-[21:10:18] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:10:25] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Atm2222
+[12:40:04] [main/INFO]: Setting user: Player144
+[12:40:05] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:40:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Atm2222
+[12:40:16] [Sound Library Loader/INFO]: Sound engine started
+[12:40:20] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:40:20] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:40:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Let's Mod Atm2222
+[12:40:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:40:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:40:22] [Sound Library Loader/INFO]: Sound engine started
+[12:40:30] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:40:30] [Server thread/INFO]: Generating keypair
+[12:40:30] [Server thread/INFO]: Preparing start region for level 0
+[12:40:31] [Server thread/INFO]: Changing view distance to 12, from 10
+[12:40:31] [Server thread/INFO]: Player144[local:E:8237c0da] logged in with entity id 233 at (-803.5, 4.0, 829.5)
+[12:40:31] [Server thread/INFO]: Player144 joined the game
+[12:40:38] [Client thread/INFO]: [CHAT] There is no such item with ID LetsModAtm:
+[12:40:41] [Client thread/INFO]: [CHAT] LetsModAtm:mapleLeaf, LetsModAtm:MxBlue
+[12:40:42] [Client thread/INFO]: [CHAT] LetsModAtm:mapleLeaf, LetsModAtm:MxBlue
+[12:40:42] [Server thread/INFO]: [Player144: Given [Cherry MX Blue] * 1 to Player144]
+[12:40:42] [Client thread/INFO]: [CHAT] Given [Cherry MX Blue] * 1 to Player144
+[12:40:45] [Server thread/INFO]: Player144 has just earned the achievement [Taking Inventory]
+[12:40:45] [Client thread/INFO]: [CHAT] Player144 has just earned the achievement [Taking Inventory]
+[12:41:18] [Server thread/INFO]: Saving and pausing game...
+[12:41:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:41:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:41:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:41:33] [Server thread/INFO]: Saving and pausing game...
+[12:41:33] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:41:33] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:41:33] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:41:34] [Server thread/INFO]: Stopping server
+[12:41:34] [Server thread/INFO]: Saving players
+[12:41:34] [Server thread/INFO]: Saving worlds
+[12:41:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[12:41:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[12:41:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[12:41:37] [Client thread/INFO]: Stopping!
